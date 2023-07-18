@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OCI_SETUP/static/css/main.37b9c37f.css",
+    "main.js": "/OCI_SETUP/static/js/main.0665abe3.js",
+    "static/js/787.7c23e2b9.chunk.js": "/OCI_SETUP/static/js/787.7c23e2b9.chunk.js",
+    "index.html": "/OCI_SETUP/index.html",
+    "main.37b9c37f.css.map": "/OCI_SETUP/static/css/main.37b9c37f.css.map",
+    "main.0665abe3.js.map": "/OCI_SETUP/static/js/main.0665abe3.js.map",
+    "787.7c23e2b9.chunk.js.map": "/OCI_SETUP/static/js/787.7c23e2b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b9c37f.css",
+    "static/js/main.0665abe3.js"
+  ]
+}
