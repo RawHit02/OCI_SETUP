@@ -1,0 +1,14 @@
+/* carousel.css */
+
+/* CSS for the carousel dots */
+.slick-dots li button:before {
+  font-size: 10px;
+}
+
+/* CSS for the carousel images */
+.slick-slide img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
