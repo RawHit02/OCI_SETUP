@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+#  RequireMent Design
+![image](https://github.com/RawHit02/OCI_SETUP/assets/107709247/44006c7a-d685-4c63-ae9e-33a93d7824ba)
+
+#  Output Design
+![image](https://github.com/RawHit02/OCI_SETUP/assets/107709247/6a3e948d-d31e-4dd5-b695-e0ae27149915)
+
+
+
 ## Getting Started
 
 First, run the development server:
