@@ -1,7 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-#  RequireMent Design      ------------------------>       Output Design
-![image](https://github.com/RawHit02/OCI_SETUP/assets/107709247/44006c7a-d685-4c63-ae9e-33a93d7824ba)    ---------------------------------->       ![image](https://github.com/RawHit02/OCI_SETUP/assets/107709247/e7bd50a4-e75b-425b-a5fd-0186cd62db61)![image](https://github.com/RawHit02/OCI_SETUP/assets/107709247/63daf4f7-244f-4fc6-b7f2-fab4ae441728)
+#  Requirement  
+![image](https://github.com/RawHit02/OCI_SETUP/assets/107709247/44006c7a-d685-4c63-ae9e-33a93d7824ba)  
+
+#  Designed Solution
+![image](https://github.com/RawHit02/OCI_SETUP/assets/107709247/e7bd50a4-e75b-425b-a5fd-0186cd62db61)![image](https://github.com/RawHit02/OCI_SETUP/assets/107709247/63daf4f7-244f-4fc6-b7f2-fab4ae441728)
 
 
 
